@@ -1,0 +1,9 @@
+
+l	java:S106
+"+Replace this use of System.out by a logger.(æ™Ã8ˆ°ïð›2J$3b07ff6c-32cc-4bf1-8207-3419c2ee203c
+r	java:S106"+Replace this use of System.out by a logger.(…÷¬Èüÿÿÿÿ8ãèœñ›2J$ceefc1aa-8e70-43f3-a3aa-0ba3d53ef108
+m	java:S106"+Replace this use of System.out by a logger.(äìÎÆ8É‘áô›2J$1b87f3a7-dd72-4858-92cb-d089aebd610d
+r
+java:S2093	"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ˆ°ïð›2J$cd741ce9-2d6b-40d9-8d5c-b1dba5a12ec2
+‡
+java:S3358"DExtract this nested ternary operation into an independent statement.(¹­ …8‰°ïð›2J$0a14ebf4-d113-4b6b-879c-b14e7967034a
