@@ -82,6 +82,8 @@ SOMA = 66 (OBS: existe um desafio onde faço o looping e exibe a resposta no pro
 **Lógica**: Soma dos dois números anteriores.  
 **Próximo elemento**: **13**
 
+---
+
 ### f) Sequência indefinida
 **Sequência**: 2, 10, 12, 16, 17, 18, 19, **?**  
 **Lógica**: Não consegui identificar.  
