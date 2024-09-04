@@ -66,14 +66,14 @@ SOMA = 66 (OBS: existe um desafio onde faço o looping e exibe a resposta no pro
 ### c) Sequência de quadrados perfeitos
 **Sequência**: 0, 1, 4, 9, 16, 25, 36, **49**  
 **Lógica**: Números quadrados perfeitos (n²).  
-**Próximo elemento**: **49** (7²)
+**Próximo elemento**: **49**
 
 ---
 
 ### d) Multiplicação do último número por ele mesmo
-**Sequência**: 4, 16, 36, 64, **4096**  
+**Sequência**: 4, 16, 36, 64, **16**  
 **Lógica**: Multiplicar o último número por ele mesmo.  
-**Próximo elemento**: **4096** (64 * 64)
+**Próximo elemento**: **4096**
 
 ---
 
